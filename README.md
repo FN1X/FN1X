@@ -15,7 +15,7 @@ Let's navigate this digital realm together and create magic through technology! 
 - [x] Learn Python basics
 - [ ] learn C++ basics
 - [X] Git gud
-
+- [ ] Make something useful
 
 ### My Equipment:
 
