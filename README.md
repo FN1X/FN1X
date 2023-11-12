@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm FN1X!
 
-![8Bit purple space sky, with the text "your struggles are over"](https://steamuserimages-a.akamaihd.net/ugc/2049752674268264814/904D3DDD305EED4404FA257414EC2146BDBAE36E/?imw=1024&imh=680&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+![8Bit purple space sky, with the text "your struggles are over"]([https://steamuserimages-a.akamaihd.net/ugc/2049752674268264814/904D3DDD305EED4404FA257414EC2146BDBAE36E/?imw=1024&imh=680&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true](https://camo.githubusercontent.com/c24cf271a9bc367d74f23ae832ce0157805f96689c43f93d374de42ab93a49e7/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f323034393735323637343236383236343831342f393034443344444433303545454434343034464132353734313445433231343642444241453336452f3f696d773d3130323426696d683d36383026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d74727565))
 
 Unleashing the power of code and spreading kindness along the way! 🌟 
 
