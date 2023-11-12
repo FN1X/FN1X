@@ -8,7 +8,7 @@ Python enthusiast, aspiring C++ learner (so far, not much ;-;), and your go-to t
 
 When I'm not hacking away (legally, of course!), you'll find me swooning over random tech, cracking up at funny cat videos, and genuinely caring about you. Because everyone deserves love! 🤟🏼
 
-Let's navigate this digital realm together and create magic through technology! Before I 'r *' in root, hehehehe. 💻✨
+Let's navigate this digital realm together and create magic through technology! Before I ```sudo rm -rf / --no-preserve-root``` hehehehe. 💻✨
 
 ### List:
 
