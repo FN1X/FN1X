@@ -3,7 +3,7 @@
 
 Unleashing the power of code and spreading kindness along the way! 🌟 
 
-Python enthusiast, aspiring C++ guru, and your go-to tech troubleshooter. 🐱‍💻
+Python enthusiast, aspiring C++ learner (so far, not much ;-;), and your go-to tech troubleshooter. 🐱‍💻
 
 When I'm not hacking away (legally, of course!), you'll find me swooning over random tech, cracking up at funny cat videos, and genuinely caring about YOU. 🤟🏼
 
