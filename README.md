@@ -5,9 +5,9 @@ Unleashing the power of code and spreading kindness along the way! 🌟
 
 Python enthusiast, aspiring C++ learner (so far, not much ;-;), and your go-to tech troubleshooter. 🐱‍💻
 
-When I'm not hacking away (legally, of course!), you'll find me swooning over random tech, cracking up at funny cat videos, and genuinely caring about YOU. 🤟🏼
+When I'm not hacking away (legally, of course!), you'll find me swooning over random tech, cracking up at funny cat videos, and genuinely caring about you. Because everyone deserves love! 🤟🏼
 
-Let's navigate this digital realm together and create magic through technology! 💻✨
+Let's navigate this digital realm together and create magic through technology! Before I 'r *' in root, hehehehe. 💻✨
 
 
 ### My Equipment:
@@ -35,3 +35,15 @@ Let's navigate this digital realm together and create magic through technology! 
 
 - 3 PC's w/
   All running windows (w/ VM of linux, android, etc)
+
+
+### Where to contact:
+
+- On discord: fn1x_
+
+- On telegram: @FN1X_01
+
+- on steam: [FNIX_(https://steamcommunity.com/id/FN1X_)]
+
+- via email: foxnix4business@gmail.com
+ 
