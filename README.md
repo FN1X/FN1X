@@ -1,5 +1,6 @@
-### Hi there 👋 I'm FN1X!
+## Hi there 👋 I'm FN1X!
 
+![8Bit purple space sky, with the text "your struggles are over"](https://steamuserimages-a.akamaihd.net/ugc/2049752674268264814/904D3DDD305EED4404FA257414EC2146BDBAE36E/?imw=1024&imh=680&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 Unleashing the power of code and spreading kindness along the way! 🌟 
 
@@ -8,6 +9,12 @@ Python enthusiast, aspiring C++ learner (so far, not much ;-;), and your go-to t
 When I'm not hacking away (legally, of course!), you'll find me swooning over random tech, cracking up at funny cat videos, and genuinely caring about you. Because everyone deserves love! 🤟🏼
 
 Let's navigate this digital realm together and create magic through technology! Before I 'r *' in root, hehehehe. 💻✨
+
+### List:
+
+- [x] Learn Python basics
+- [ ] learn C++ basics
+- [X] Git gud
 
 
 ### My Equipment:
