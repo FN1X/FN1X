@@ -46,4 +46,7 @@ Let's navigate this digital realm together and create magic through technology! 
 - on steam: [FNIX_](https://steamcommunity.com/id/FN1X_)
 
 - via email: foxnix4business@gmail.com
- 
+
+### My embarrasing stats:
+
+![You found a easter egg! Free cookie for you! 🍪](https://github-readme-stats.vercel.app/api?username=FN1X)
