@@ -12,26 +12,26 @@ Let's navigate this digital realm together and create magic through technology! 
 
 ### My Equipment:
 
-- Flipper zero
-   Wifi dev baord (Marauder & Evil portal)
+- Flipper zero w/
+   Wifi dev baord (Marauder & Evil portal),
    CC1101 board (with extended antenna)
 
-- HP Laptop
+- HP Laptop w/
    Kali linux (Don't call me a skid, we all had to learn somehow.)
 
-- Lenovo Laptop
+- Lenovo Laptop w/
    Arch linux
 
-- Old laptop from babushka
+- Old laptop from babushka w/
    Ubuntu server
 
-- RPI Zero WHC
+- RPI Zero WHC w/
    Kali (PiTail), P4wnP1
 
-- RPI one B
+- RPI one B w/
    Kali, Batocera
 
 - WiFi Pineapple VII
 
-- 3 PC's
+- 3 PC's w/
   All running windows (w/ VM of linux, android, etc)
