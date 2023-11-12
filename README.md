@@ -43,7 +43,7 @@ Let's navigate this digital realm together and create magic through technology! 
 
 - On telegram: @FN1X_01
 
-- on steam: [FNIX_(https://steamcommunity.com/id/FN1X_)]
+- on steam: [FNIX_](https://steamcommunity.com/id/FN1X_)
 
 - via email: foxnix4business@gmail.com
  
