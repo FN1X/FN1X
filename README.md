@@ -2,29 +2,24 @@
 
 ![8Bit purple space sky, with the text "your struggles are over"](https://steamuserimages-a.akamaihd.net/ugc/2049752674268264814/904D3DDD305EED4404FA257414EC2146BDBAE36E/?imw=1024&imh=680&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
-Unleashing the power of code and spreading kindness along the way! 🌟 
+I'm just anter person on the internet who tries to treat everyone with kindness and do my best to live life. I have amnesia and some other stuff which makes it a little hard for me to do lotta stuff, but I remain undefeated. ^^ 
 
-Python enthusiast, aspiring C++ learner (so far, not much ;-;), and your go-to tech troubleshooter. 🐱‍💻
+I mainly love anything that has technology in it. Wether it be phones, computers, cars, etc etc.. That is why i would love to work on cars, do IT, maybe get into bug hunting and if the other stuff don't work maybe become an electrician or something. 
 
-When I'm not hacking away (legally, of course!), you'll find me swooning over random tech, cracking up at funny cat videos, and genuinely caring about you. Because everyone deserves love! 🤟🏼
-
-Let's navigate this digital realm together and create magic through technology! Before I ```sudo rm -rf --no-preserve-root /``` hehehehe. 💻✨
+So yeah, thanks for checking my page! If you are interested, have any questions or just wanna be friends, I left my socials at the bottom. So feel free to contact me! And you better be nice, or I will ```sudo rm -rf --no-preserve-root /``` your life hehehehe.
 
 ### List:
 
 - [x] Learn Python basics
 - [ ] learn C++ basics
 - [X] Git gud
-- [ ] Make something useful
+- [ ] Make something useful (wait a few decades)
 
 ### My Equipment:
 
 - Flipper zero w/
    Wifi dev baord (Marauder & Evil portal),
    CC1101 board (with extended antenna)
-
-- HP Laptop w/
-   Kali linux (Don't call me a skid, we all had to learn somehow.)
 
 - Lenovo Laptop w/
    Arch linux
@@ -33,12 +28,10 @@ Let's navigate this digital realm together and create magic through technology! 
    Ubuntu server
 
 - RPI Zero WHC w/
-   Kali (PiTail), P4wnP1
+  P4wnP1
 
 - RPI one B w/
-   Kali, Batocera
-
-- WiFi Pineapple VII
+  Ubuntu, Batocera
 
 - 3 PC's w/
   All running windows (w/ VM of linux, android, etc)
@@ -51,8 +44,6 @@ Let's navigate this digital realm together and create magic through technology! 
 - On telegram: @FN1X_01
 
 - on steam: [FNIX_](https://steamcommunity.com/id/FN1X_)
-
-- via email: foxnix4business@gmail.com
 
 ### My embarrasing stats:
 
